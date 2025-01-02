@@ -1,6 +1,6 @@
 # 🌟 Modern Todo List Webpage
 
-This project is a **modern Todo list webpage** built with HTML, offering a clean and user-friendly interface for managing your tasks. It includes a variety of features designed to enhance your productivity. 🚀
+This project is a **modern Todo list webpage** built with HTML, CSS, JS offering a clean and user-friendly interface for managing your tasks. It includes a variety of features designed to enhance your productivity. 🚀
 
 ---
 
