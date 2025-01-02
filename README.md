@@ -43,10 +43,6 @@ All tasks are saved in the browser's local storage, ensuring they persist even a
 
 ---
 
-## 👀 Preview
-![Todo List](https://hiteshpanigrahi.github.io/ToDoApp/) <!-- Replace with a link to a screenshot of your webpage -->
-
----
 
 ## 🖥️ Technologies Used
 - **HTML** 🧱
